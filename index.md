@@ -5,7 +5,7 @@
 
 **UCSD Email:** msissel@ucsd.edu
 
-**Section:** D07
+**Section:** D07 / The value of prediction for resource allocation
 
 **Mentor:** Emily Aiken
 
