@@ -14,7 +14,7 @@
 **What is the most interesting topic covered in your domain this quarter?**
 
 The most interesting topic covered in my domain this quarter was how to create and read welfare surfaces.
-The welfare surfaces showed how the share of data collected and the capacity could change the level of welfare received.
+The welfare surfaces showed how the share of data collected and the capacity changed the level of welfare received.
 It was interesting to see how changes in the budget, data collected, and capacity affected the welfare received.
 
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
